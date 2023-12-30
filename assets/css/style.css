@@ -261,6 +261,9 @@ nav ul li a:hover {
     left: 70px;
 }
 
+.curser {
+    cursor: pointer;
+}
 
 @media (max-width:992px) {
     #mobileview:checked~.nav_bar {
